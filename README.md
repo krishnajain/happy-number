@@ -5,10 +5,10 @@ this process will be repeated until it becomes 1, otherwise it will loop endless
 
 Suppose the number is 19, the output will be true as the number is happy number. As we can see from 19, we will get
 
-12 + 92 = 82
+1^2 + 9^2 = 82
 
-82 + 22 = 68
+8^2 + 2^2 = 68
 
-62 + 82 = 100
+6^2 + 8^2 = 100
 
-12 + 02 + 02 = 1
+1^2 + 0^2 + 0^2 = 1
